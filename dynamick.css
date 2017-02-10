@@ -1,0 +1,96 @@
+@charset "utf-8";
+@font-face {	font-family: "Harry";
+	src: URL('fonts/HarryPlain.otf') format (otf);}
+@font-face {	font-family: "HarryObese";
+	src: URL('fonts/HarryObese.otf') format (otf);}
+@font-face {	font-family: "Univers Com 47 Light Cond";
+	src: URL('fonts/UniversCom-47LightCond.ttf') format (ttf);}
+
+body
+{	background-color:#FFFFFF;}
+
+
+#supercontainer {height:auto; clear:both;}
+#supercontainer .ccenter {display:block;margin-left: auto; margin-right: auto;}
+#supercontainer .tcenter {text-align:center;}
+#supercontainer img .ccenter {text-align:center;}
+
+#all{	font-family:"Univers Com 47 Light Cond", "Trebuchet MS", Arial, Helvetica, sans-serif;
+	letter-spacing:0.01em;position:relative;
+	 }
+	
+#all .ccenter {display:block; margin-left: auto; margin-right: auto; margin: 0 auto;}
+#all .tcenter {text-align:center;}
+#all img .ccenter {text-align:center; border-width:0px; border:none;}
+#all a {text-decoration:none;}
+
+#all .fonttitle {font-weight:bold; font-family:"Univers Com 47 Light Cond", "Trebuchet MS", Arial, Helvetica, sans-serif; text-transform:uppercase;}
+
+#all .font0 {font-size:1.52em;}
+#all .font1 {font-size:1.32em;}
+#all .font2 {font-size:1.15em;}
+#all .font3 {font-size:1.00em;}
+#all .font4 {font-size:0.87em;}
+#all .font5 {font-size:0.76em;}
+#all .font6 {font-size:0.62em;}
+#all .font7 {font-size:0.57em;}
+
+#all .fontcharcoal {color:#555;} #all .fontcharcoal a {color:#333;}
+#all .fontcyan {color:#30a6ca;} #all .fontcyan a {color:#30a6ca;}
+#all .fontblue {color:#0200c4;} #all .fontblue a {color:#0200c4;}
+#all .fontgold {color:#87795e;} #all .fontgold a {color:#87795e;}
+#all .fontred {color:#cc0001;} #all .fontred a {color:#cc0001;}
+#all .fontwhite {color:#FFFFFF;} #all .fontwhite a {color:#FFFFFF;}
+#all .fontblack {color:#000;} #all .fontblack a {color:#000;}
+
+#all .und {text-decoration:underline;}
+
+#all .onecontainer {clear:both;display:block;}
+#all .one{float:left; 		}
+#all .one img{border:none; border-width:0px;}
+#all .one .c0{float:left; 	 }
+#all .one .c1{float:left; 	 }
+#all .one .c2{float:left; 			}
+#all .one .c3{float:left; 			}
+#all .one .c4{float:left; 			}
+
+#all .twocontainer {float:left;display:block;}
+#all .starback {background-position:center; background-repeat:no-repeat;}
+#all .two{float:left;  }
+#all .two .c0{float:left;	}
+#all .two .c1{float:left;		}
+#all .two .c2{float:left;	}
+#all .two .c3{float:left;	}
+#all .two .c4{float:left;	}
+#all .two img{border:none; border-width:0px;}
+#all .two a {text-decoration:underline}
+#all .please {background-position:left; background-repeat:no-repeat; margin-left:.44em; padding-top:1.15em; padding-left:.77em; margin-bottom:.77em;}
+#all .thanks {background-position:left; background-repeat:no-repeat; margin-left:.44em; margin-bottom:.77em; height:2.75em;}
+
+#all .threecontainer {float:left;display:block;}
+#all .three{float:left; 		 }
+#all .three img{border:none; border-width:0px;}
+#all .three .c0{float:left; 	 }
+#all .three .c1{float:left; 	 }
+#all .three .c2{float:left; 			}
+#all .three .c3{float:left; 			}
+#all .three .c4{float:left; 			}
+
+#all .redbg {background-color:#cc0001;  }
+#all .bluebg {background-color:#0200c4;  }
+#all .cyanbg {background-color:#30a6ca; }
+
+
+#all .hidden { display: none; visibility:none;}
+#all .unhidden { display: block; visibility:block;}
+
+
+
+#ssize
+{	color:#FFFFFF}
+
+
+
+/* CSS Document */
+
+
